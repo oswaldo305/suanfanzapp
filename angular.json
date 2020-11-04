@@ -149,5 +149,8 @@
       }
     }
   },
-  "defaultProject": "wa-clone"
+  "defaultProject": "wa-clone",
+  "cli": {
+    "analytics": false
+  }
 }
